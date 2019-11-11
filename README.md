@@ -13,4 +13,4 @@ Yajan-PHP is smart framework for PHP development. It can build enterprise applic
 9.	Can make application with or without database application / website
 
 ### Installation on linux / unix
-https://github.com/awgpsk/yajan-php/wiki/Installation
+[https://awgpsk.github.io/yajan-php/installation](https://awgpsk.github.io/yajan-php/installation)
