@@ -2,31 +2,22 @@
 Yajan-PHP is smart framework for PHP development. It can build enterprise application and website with in minimal effort of developer. 
 
 ## Feature of Yajan-PHP
-1.	Management console on CLI
-2.	Inbuilt authentication and authorization system
-3.	Object oriented programming concept 
-4.	Support to Core PHP development, MVC architecture 
-5.	Support to Mysql, Sqlite, Oraclce and Postgry database
-6.	Multiple database as clone or replica database
-7.	Master / slave database architecture
-8.	Deferent database schemas in one project
-9.	Can make application with or without database application / website
-10. File management 
-11. Session data and cookies control
-12. Log files and temporary files handling
-13. CSV File handling
-14. Realtime image editing 
-15. Barcode support
-16. Socket Programming and Cross server programming 
-17. Background service 
-18. Content filtering and Compression, encryption
-19. Facebook and Google integration
-20. HTML Componant templates
-21. Hindi typography conversion (Unicode to Chanakya, Krutidev)
-22. HTML Parsing handling
-23. Active Directory / LDAP Support
-24. XML Data handling 
-25. JSON Data parsing
+1. Command Line Interpreter management console
+2. A well designed system for authentication and authorization
+3. Designed as per the rules of Object oriented programming
+4. Follow MVC pattern and support core PHP development
+5. Various supportable database (MySQL, SQLite, Oracle, Postgre) for single and multiple projects along with cloning and replica
+6. Proper file management system
+7. Log, temporary and csv files handling
+8. session data with cookies, cache etd control
+9. Image handling at real time
+10. sensor support like barcode
+11. provide a vast instance for socket and cross server programming
+12. High level encryption based on cryptography, file compression and content filtering
+13. Integrate facebook and google using yajan
+14. Unicode programming (typography conversion in hindi)
+15. Active Directory / LDAP Support
+16. XML and JSON data parsing
 
 
 ### Installation on linux / unix
